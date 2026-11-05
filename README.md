@@ -24,3 +24,15 @@ Estoy aprendiendo y utilizando estas tecnologías en mis proyectos académicos:
 - **Programación web:** JavaScript y TypeScript.
 - **Interfaces de usuario:** React y Material UI.
 - **Control de versiones:** Git y GitHub.
+
+## Proyectos en los que he contribuido
+
+### 🍫 Cultura e historia en la web — Museo del Cacao
+
+Sitio web informativo que permite conocer la historia del cacao, su importancia cultural y la experiencia de visitar el museo.
+
+Participé como **coautora**, colaborando en la construcción del sitio y en la presentación de su contenido. Este proyecto me permitió practicar el desarrollo web y el trabajo en equipo mediante Git y GitHub.
+
+**Tecnologías:** HTML, CSS y JavaScript.
+
+[Explorar el repositorio del museo](https://github.com/ValeriaQuimi/dawm-proyecto-02)
