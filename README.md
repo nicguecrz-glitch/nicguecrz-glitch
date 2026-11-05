@@ -44,3 +44,10 @@ Proyecto de chatbot orientado a responder preguntas frecuentes sobre la ESPOL.
 Participé en su desarrollo como **coautora**. Además de ser una experiencia de aprendizaje y colaboración, este proyecto fue el que me permitió ingresar al Club CIAP.
 
 [Conocer el proyecto del chatbot](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
+
+## Contacto
+
+Puedes escribirme para conversar sobre mis proyectos académicos o colaborar en nuevas ideas.
+
+- 🎓 **Correo institucional:** [nicgcruz@espol.edu.ec](mailto:nicgcruz@espol.edu.ec)
+- ✉️ **Correo personal:** [nicguecrz@gmail.com](mailto:nicguecrz@gmail.com)
