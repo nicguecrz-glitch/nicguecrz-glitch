@@ -36,3 +36,11 @@ Participé como **coautora**, colaborando en la construcción del sitio y en la 
 **Tecnologías:** HTML, CSS y JavaScript.
 
 [Explorar el repositorio del museo](https://github.com/ValeriaQuimi/dawm-proyecto-02)
+
+### 💬 Una experiencia que me conectó con CIAP — Chatbot FAQ ESPOL
+
+Proyecto de chatbot orientado a responder preguntas frecuentes sobre la ESPOL.
+
+Participé en su desarrollo como **coautora**. Además de ser una experiencia de aprendizaje y colaboración, este proyecto fue el que me permitió ingresar al Club CIAP.
+
+[Conocer el proyecto del chatbot](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
