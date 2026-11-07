@@ -16,15 +16,20 @@ Me gusta aprender mediante proyectos prácticos y trabajar de forma colaborativa
 - Ingeniería de software.
 - Análisis y visualización de datos.
 
-## Tecnologías en aprendizaje
+## 🛠️ Lenguajes y tecnologías
 
-Estoy aprendiendo y utilizando estas tecnologías en mis proyectos académicos:
-
-- **Estructura y estilos:** HTML y CSS.
-- **Programación web:** JavaScript y TypeScript.
-- **Interfaces de usuario:** React y Material UI.
-- **Control de versiones:** Git y GitHub.
-
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ## Proyectos en los que he contribuido
 
 ### 🍫 Cultura e historia en la web — Museo del Cacao
