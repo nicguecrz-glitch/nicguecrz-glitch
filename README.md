@@ -1,5 +1,7 @@
 # Hola, soy Nicole 👋
 
+![Terminal de Python con el mensaje «Hola, soy Nicole»](https://raw.githubusercontent.com/nicguecrz-glitch/portafolio-evidencias/main/banner-nicole.png)
+
 Soy estudiante de Ingeniería en Computación en la ESPOL.
 
 Estoy aprendiendo a desarrollar aplicaciones web y a utilizar Git y GitHub para organizar mis proyectos y trabajar de forma colaborativa.
