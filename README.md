@@ -32,13 +32,14 @@ Me gusta aprender mediante proyectos prácticos y trabajar de forma colaborativa
 ![React](https://skillicons.dev/icons?i=react)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-## Proyectos en los que he contribuido
 
 ### Cómo apliqué estas tecnologías
 
 - **HTML y CSS.** En el Museo del Cacao los utilicé para estructurar el contenido y adaptar el diseño a pantallas pequeñas. En el currículo web los apliqué para organizar la información en secciones y darles una jerarquía visual.
 - **Git y GitHub.** Los usé para gestionar los cambios y colaborar con mi compañera en el sitio del Museo del Cacao.
 - **n8n y Telegram.** En el Chatbot FAQ ESPOL usamos n8n para automatizar el flujo de consultas y Telegram como canal para recibir preguntas y enviar respuestas.
+
+## Proyectos en los que he contribuido
 
 ### 🍫 Cultura e historia en la web — Museo del Cacao
 
