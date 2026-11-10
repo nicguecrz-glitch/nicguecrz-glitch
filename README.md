@@ -42,7 +42,13 @@ Participé como **coautora**, colaborando en la construcción del sitio y en la 
 
 **Tecnologías:** HTML, CSS y JavaScript.
 
-[Explorar el repositorio del museo](https://github.com/ValeriaQuimi/dawm-proyecto-02)
+[Ver sitio web](https://valeriaquimi.github.io/dawm-proyecto-02/) · [Ver repositorio](https://github.com/ValeriaQuimi/dawm-proyecto-02)
+
+<p align="center">
+  <a href="https://valeriaquimi.github.io/dawm-proyecto-02/">
+    <img src="https://raw.githubusercontent.com/nicguecrz-glitch/portafolio-evidencias/main/MUSEO.png" alt="Captura del sitio web del Museo del Cacao">
+  </a>
+</p>
 
 ### 💬 Una experiencia que me conectó con CIAP — Chatbot FAQ ESPOL
 
@@ -50,7 +56,11 @@ Proyecto de chatbot orientado a responder preguntas frecuentes sobre la ESPOL.
 
 Participé en su desarrollo como **coautora**. Además de ser una experiencia de aprendizaje y colaboración, este proyecto fue el que me permitió ingresar al Club CIAP.
 
-[Conocer el proyecto del chatbot](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
+**Tecnologías:** n8n, Telegram, Google Sheets y MongoDB.
+
+[Ver repositorio](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
+
+![Diagrama del flujo de trabajo del Chatbot FAQ ESPOL](https://raw.githubusercontent.com/nicguecrz-glitch/portafolio-evidencias/main/CIAPCOAUTORA.png)
 
 ## Contacto
 
