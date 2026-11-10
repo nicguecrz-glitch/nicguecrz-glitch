@@ -34,6 +34,12 @@ Me gusta aprender mediante proyectos prácticos y trabajar de forma colaborativa
 ![GitHub](https://skillicons.dev/icons?i=github)
 ## Proyectos en los que he contribuido
 
+### Cómo apliqué estas tecnologías
+
+- **HTML y CSS.** En el Museo del Cacao los utilicé para estructurar el contenido y adaptar el diseño a pantallas pequeñas. En el currículo web los apliqué para organizar la información en secciones y darles una jerarquía visual.
+- **Git y GitHub.** Los usé para gestionar los cambios y colaborar con mi compañera en el sitio del Museo del Cacao.
+- **n8n y Telegram.** En el Chatbot FAQ ESPOL usamos n8n para automatizar el flujo de consultas y Telegram como canal para recibir preguntas y enviar respuestas.
+
 ### 🍫 Cultura e historia en la web — Museo del Cacao
 
 Sitio web informativo que permite conocer la historia del cacao, su importancia cultural y la experiencia de visitar el museo.
@@ -61,6 +67,17 @@ Participé en su desarrollo como **coautora**. Además de ser una experiencia de
 [Ver repositorio](https://github.com/Club-CIAP/chatbot_FAQ_ESPOL)
 
 ![Diagrama del flujo de trabajo del Chatbot FAQ ESPOL](https://raw.githubusercontent.com/nicguecrz-glitch/portafolio-evidencias/main/CIAPCOAUTORA.png)
+
+### 📄 Mi primer currículo web — Práctica de clase
+
+Desarrollé una página con formato de currículo como ejercicio de clase para practicar cómo se estructura y se presenta la información en la web.
+
+**Tecnologías utilizadas**
+
+- **HTML** para organizar la información del currículo en secciones.
+- **CSS** para dar estilo a la página y distinguir visualmente los títulos del resto del contenido.
+
+[Ver repositorio](https://github.com/nicguecrz-glitch/dawm-cv)
 
 ## Contacto
 
